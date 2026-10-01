@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 292" width="100%" height="100%">
+      <rect width="100%" height="100%" fill="#ffffff" rx="8" />
+      <text x="30" y="35" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#111827">Regional Sales &amp; Margin Performance</text>
+      
+        <text x="30" y="78" font-family="Arial, sans-serif" font-size="14" fill="#1f2937" font-weight="600">East Region</text>
+        <rect x="180" y="60" width="380" height="24" rx="4" fill="#10b981" />
+        <text x="570" y="77" font-family="Arial, sans-serif" font-size="12" fill="#374151">$280,594 (Margin: 21.2%)</text>
+        
+        <text x="30" y="126" font-family="Arial, sans-serif" font-size="14" fill="#1f2937" font-weight="600">West Region</text>
+        <rect x="180" y="108" width="360" height="24" rx="4" fill="#10b981" />
+        <text x="550" y="125" font-family="Arial, sans-serif" font-size="12" fill="#374151">$265,912 (Margin: 20.3%)</text>
+        
+        <text x="30" y="174" font-family="Arial, sans-serif" font-size="14" fill="#1f2937" font-weight="600">South Region</text>
+        <rect x="180" y="156" width="325" height="24" rx="4" fill="#10b981" />
+        <text x="515" y="173" font-family="Arial, sans-serif" font-size="12" fill="#374151">$240,297 (Margin: 20.1%)</text>
+        
+        <text x="30" y="222" font-family="Arial, sans-serif" font-size="14" fill="#1f2937" font-weight="600">Central Region</text>
+        <rect x="180" y="204" width="291" height="24" rx="4" fill="#f59e0b" />
+        <text x="481" y="221" font-family="Arial, sans-serif" font-size="12" fill="#374151">$215,027 (Margin: 13.1%)</text>
+        
+    </svg>
